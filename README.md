@@ -1,6 +1,6 @@
 #Water CSS and HTML
 
-#Inspiration ::: Channel on Youtube [![Youtube Badge](https://www.youtube.com/c/OnlineTutorials4Designers)
+#Inspiration ::: Channel on Youtube (https://www.youtube.com/c/OnlineTutorials4Designers)
 
 
 #Link da Applicação:
