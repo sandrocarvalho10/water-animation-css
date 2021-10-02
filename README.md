@@ -7,4 +7,4 @@
 
 
 
-<img src="https://github.com/sandrocarvalho10/navigation-lateral-bar/blob/master/img/water-animation.gif">
+<img src="https://github.com/sandrocarvalho10/water-animation-css/blob/master/img/water-animation.gif">
